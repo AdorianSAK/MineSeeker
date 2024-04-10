@@ -64,6 +64,3 @@ public partial class MainGameCode
 		Console.Beep(250, 7);
 	}
 }
-
-//	This is a comment
-//Puto el que lo lea
