@@ -16,7 +16,7 @@ public partial class MainGameCode
 	public static int obstaclePercent = 33;	//	Default 33
 	public static int gemsPercent = 1;	//	Default 1
 	public static int minePercent = 4;	//	Default 4
-	public static int screenWidth = 51;	//	Default 21 - Only odd numbers.
+	public static int screenWidth = 21;	//	Default 21 - Only odd numbers.
 	public static int screenHeigh = 21;	//	Default 21 - Only odd numbers.
 
 	public static int playerSpawnRatio = 4;	//	Defaul 4
